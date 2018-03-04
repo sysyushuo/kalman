@@ -8,7 +8,7 @@ typedef struct {
 	
     double * x;    /* state vector */
 	
-    double * P;  /* prediction error covariance */
+    double * P;  /* prediction error covariance */ 
     double * Q;  /* process noise covariance */
     double * R;  /* measurement error covariance */
 	
