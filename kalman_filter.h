@@ -1,7 +1,7 @@
 #ifndef  _KALMAN_FILTER_H
 #define  _KALMAN_FILTER_H
 #define Nsta 4
-#define Mobs 4
+#define Mobs 4 
 
 typedef struct {
 	int n;          /* number of state values */
